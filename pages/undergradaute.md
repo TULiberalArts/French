@@ -40,7 +40,7 @@ Our courses are often small, allowing students to get to know each other and the
 - We encourage our students to study abroad.
 - We invite our students to participate in the activities of the French Club and benefit from various departmental events such as film festivals.
 
-## Degrees and Programs of Study
+## Programs of Study
 
 ## Major in French
 
