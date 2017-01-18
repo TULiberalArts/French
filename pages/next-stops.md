@@ -1,10 +1,13 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Studying French opens doors across many industries, including:
+## Next Stops
+
+Studying French opens doors across many industries, including:
 
 - Education
 - Journalism
