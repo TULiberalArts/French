@@ -1,5 +1,5 @@
 - name: "Jenifer Branton-Desris"
-  title: "Adjunct Assistant Professor"
+  title: <i>Adjunct Assistant Professor</i>
   room: "547"
   building: "Anderson Hall"
   email: "jenifer.ann.branton-desris@temple.edu"
@@ -7,10 +7,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "French, French literature, Short prose fiction, Tales, Book history, Rhetoric, Beginner French, Intermediate French, Business French, Oral proficiency, Composition"
-  bio: "Jenifer Branton-Desris holds a Masters degree from The University of Maine at Orono and a Ph.D. from Rutgers, The State University of New Jersey. Her current field of study lies in the influences of the nascent 16th-century book industry’s practices and culture on the texts themselves, particularly with regards to variant editions of works by the same author. Collections of short prose fiction/tales are of special interest, and she continues her research on Bonaventure Des Periers, Noel du Fail, Marguerite de Navarre, and their interpolators. Jenifer holds a certificate from the French Chambre de Commerce, Ile-de-France-Paris for pedagogical training for Business French. She continues to expand her teaching portfolio to cover all levels of French language and literature, including Beginner and Intermediate French, Oral Proficiency, Business French, and Advanced Grammar and Composition. She has also taught Expository Writing and has coordinated for a Comparative Literature course which covers a range of global literature texts (Korean, Argentinian, American, Russian, Iraqi, Pakistani, etc.)."
+  bio: >
+    Jenifer Branton-Desris holds a Masters degree from The University of Maine at Orono and a Ph.D. from Rutgers, The State University of New Jersey. Her current field of study lies in the influences of the nascent 16th-century book industry’s practices and culture on the texts themselves, particularly with regards to variant editions of works by the same author. Collections of short prose fiction/tales are of special interest, and she continues her research on Bonaventure Des Periers, Noel du Fail, Marguerite de Navarre, and their interpolators. Jenifer holds a certificate from the French Chambre de Commerce, Ile-de-France-Paris for pedagogical training for Business French. She continues to expand her teaching portfolio to cover all levels of French language and literature, including Beginner and Intermediate French, Oral Proficiency, Business French, and Advanced Grammar and Composition. She has also taught Expository Writing and has coordinated for a Comparative Literature course which covers a range of global literature texts (Korean, Argentinian, American, Russian, Iraqi, Pakistani, etc.).
 
 - name: "Beth Curran, PH.D."
-  title: "Associate Professor"
+  title: <i>Associate Professor</i>
   room: "552"
   building: "Anderson Hall"
   email: "bcurran@temple.edu"
@@ -18,10 +19,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "French language, French cinema, French literature, Algerian War"
-  bio: "Beth K. Curran is an Associate Professor of Instruction in French. She earned her Ph.D. from Rutgers University and began teaching at Temple in 2003. She has taught lower- and upper-level courses in French language, literature, and cinema. Her teaching interests focus on various topics in contemporary French-language films: her courses have explored portraits of childhood, coming-of-age, community, and marginalization. She is currently developing a course on cinematic representations of French identity in relation to the recent attacks in France. Dr. Curran was a grateful recipient of the Honors Professor of the Year Award (2012), and has been delighted to serve numerous times as Faculty Advisor for Temple’s summer program in Paris. She is currently the course coordinator for second-semester French and the co-coordinator of course scheduling."
+  bio: >
+    Beth K. Curran is an Associate Professor of Instruction in French. She earned her Ph.D. from Rutgers University and began teaching at Temple in 2003. She has taught lower- and upper-level courses in French language, literature, and cinema. Her teaching interests focus on various topics in contemporary French-language films: her courses have explored portraits of childhood, coming-of-age, community, and marginalization. She is currently developing a course on cinematic representations of French identity in relation to the recent attacks in France. Dr. Curran was a grateful recipient of the Honors Professor of the Year Award (2012), and has been delighted to serve numerous times as Faculty Advisor for Temple’s summer program in Paris. She is currently the course coordinator for second-semester French and the co-coordinator of course scheduling.
 
 - name: "Heba Elwardany"
-  title: "Adjunct Instructor"
+  title: <i>Adjunct Instructor</i>
   room: "526"
   building: "Anderson Hall"
   email: "heba.elwardany@temple.edu"
@@ -29,10 +31,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: "Heba Elwardany, Adjunct Professor, earned her B.A. from the University of Alexandria, Egypt in French literature and language. Her research interests include French literature, language and culture. Her current research focuses on francophone culture. Heba teaches courses in French language and culture. She also maintains a teaching interest in French literature and civilization."
+  bio: >
+    Heba Elwardany, Adjunct Professor, earned her B.A. from the University of Alexandria, Egypt in French literature and language. Her research interests include French literature, language and culture. Her current research focuses on francophone culture. Heba teaches courses in French language and culture. She also maintains a teaching interest in French literature and civilization.
 
 - name: "John Farquhar"
-  title: "Adjunct Instructor"
+  title: <i>Adjunct Instructor</i>
   room: "530"
   building: "Anderson Hall"
   email: "johnfar@temple.edu"
@@ -40,10 +43,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Akim Gabriel"
-  title: "Instructor"
+  title: <i>Instructor</i>
   room: "553"
   building: "Anderson Hall"
   email: "gakim@temple.edu"
@@ -51,10 +54,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Samar Haddad"
-  title: "Instructor"
+  title: <i>Instructor</i>
   room: "547"
   building: "Anderson Hall"
   email: "samarh@temple.edu"
@@ -62,10 +65,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Susan Kalet"
-  title: "Adjunct Instructor"
+  title: <i>Adjunct Instructor</i>
   room: "547"
   building: "Anderson Hall"
   email: "susan.kalet@temple.edu"
@@ -73,10 +76,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "French"
-  bio: "Susan Kalet is a graduate of the University of Delaware, with a BA in Art History and an MA in French Literature. After completing her BA and before beginning her MA program, she spent a summer in Bretagne as a nanny to a French family. While in the graduate program, she taught beginning-level French courses. She also studied abroad for a year during graduate school at the Université de Caen in Normandie, France; teaching English while taking courses in French and Italian. After University, she worked as a French teacher and Head of the Foreign Language Department at Wilmington Friends School in Wilmington, Delaware. Here she taught Beginner through Advanced levels, including IB French SL. She was an advisor on the 9/10 grade rotation and was the faculty sponsor for the Mock Trial Team. She additionally led a 3-week student homestay/study program to Antibes, France. As Department Head, she oversaw her colleagues’ work, observed their teaching and provided feedback, led department meetings, coordinated the homestay program for international assistant(e)(s) each year, and was in charge of the department’s budget. At the end of the 2004 school year she left the classroom to be a stay-at-home mother. She also began running and has completed 9 half-marathons and is currently training for her third full marathon."
+  bio: >
+    Susan Kalet is a graduate of the University of Delaware, with a BA in Art History and an MA in French Literature. After completing her BA and before beginning her MA program, she spent a summer in Bretagne as a nanny to a French family. While in the graduate program, she taught beginning-level French courses. She also studied abroad for a year during graduate school at the Université de Caen in Normandie, France; teaching English while taking courses in French and Italian. After University, she worked as a French teacher and Head of the Foreign Language Department at Wilmington Friends School in Wilmington, Delaware. Here she taught Beginner through Advanced levels, including IB French SL. She was an advisor on the 9/10 grade rotation and was the faculty sponsor for the Mock Trial Team. She additionally led a 3-week student homestay/study program to Antibes, France. As Department Head, she oversaw her colleagues’ work, observed their teaching and provided feedback, led department meetings, coordinated the homestay program for international assistant(e)(s) each year, and was in charge of the department’s budget. At the end of the 2004 school year she left the classroom to be a stay-at-home mother. She also began running and has completed 9 half-marathons and is currently training for her third full marathon.
 
 - name: "Isabelle Meyer"
-  title: "Adjunct Instructor"
+  title: <i>Adjunct Instructor</i>
   room: "526"
   building: "Anderson Hall"
   email: "isabelle.meyer@temple.edu"
@@ -84,10 +88,10 @@
   website: "http://twitter.com/example"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Wilbert Roget, PH.D."
-  title: "Associate Professor"
+  title: <i>Associate Professor</i>
   room: "549"
   building: "Anderson Hall"
   email: "wilbert@temple.edu"
@@ -95,10 +99,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise:
-  bio: ""
+  bio: >
 
 - name: "Gregoire Rosia"
-  title: "Adjunct Instructor"
+  title: <i>Adjunct Instructor</i>
   room: "530"
   building: "Anderson Hall"
   email: "grosia@verizon.net"
@@ -106,10 +110,10 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Laura Spagnoli, PH.D."
-  title: "Associate Professor"
+  title: <i>Associate Professor</i>
   room: "540"
   building: "Anderson Hall"
   email: "spagnoli@temple.edu"
@@ -117,10 +121,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "French language and cultural studies, 19th-century literature, Cinema"
-  bio: "Laura Spagnoli earned her Ph.D. from the University of Pennsylvania and began teaching at Temple in 2004. She has taught a wide range of courses, from first-semester French to an upper-level seminar on vampires in French literature. She has also focused on curriculum development, updating courses such as Intermediate French and Composition II. She is currently the course coordinator for third-semester French and the co-coordinator of course scheduling, and has previously served as the French advisor, the administrator of the writing-intensive course re-approval process for French, a member of her department’s Assessment Committee, and a member of the College Committee on Instruction. She is one of the current organizers of the French Cafe program, in which faculty meet informally with students interested in speaking French or discussing events in the Francophone world."
+  bio: >
+    Laura Spagnoli earned her Ph.D. from the University of Pennsylvania and began teaching at Temple in 2004. She has taught a wide range of courses, from first-semester French to an upper-level seminar on vampires in French literature. She has also focused on curriculum development, updating courses such as Intermediate French and Composition II. She is currently the course coordinator for third-semester French and the co-coordinator of course scheduling, and has previously served as the French advisor, the administrator of the writing-intensive course re-approval process for French, a member of her department’s Assessment Committee, and a member of the College Committee on Instruction. She is one of the current organizers of the French Cafe program, in which faculty meet informally with students interested in speaking French or discussing events in the Francophone world.
 
 - name: "Ruth Thomas, PH.D."
-  title: "Professor"
+  title: <i>Professor</i>
   room: "548"
   building: "Anderson Hall"
   email: "rpthomas@temple.edu"
@@ -128,4 +133,4 @@
   website: "http://twitter.com/example"
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: ""
-  bio: ""
+  bio: >
