@@ -6,31 +6,27 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Cristina Gragnani  
+   537 Anderson Hall  
+   [(215) 204-1816](tel:2152041816)  
+   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Cristina Gragnani<br/>
-  537 Anderson Hall<br/>
-  [(215) 204-1816](tel:2152041816)<br/>
-  [gragnani@temple.edu](mailto:gragnani@temple.edu)<br/>
-  
-   <hr>
-
-  **Administrator:**<br/>
-  Michelle Pugliese<br/>
-  429 Anderson Hal <br/>
-  [(215) 204-5628](tel:2152045628)<br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Stephanie Smith<br/>
-  539 Anderson Hall<br/>
-  [(215) 204-1261](tel:2152041261)<br/>
-  [ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br/>
+   **Coordinator:**  
+   Stephanie Smith  
+   539 Anderson Hall    
+   [(215) 204-1261](tel:2152041261)   
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
 ---
 
 Our bachelor’s degree in French helps students develop skill in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
