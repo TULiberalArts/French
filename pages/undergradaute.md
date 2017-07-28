@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Cristina Gragnani  
    537 Anderson Hall  
@@ -26,7 +26,7 @@ sidebar-content: > #
    Stephanie Smith  
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
 
 Our bachelor’s degree in French helps students develop skill in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
@@ -44,6 +44,8 @@ Take advantage of Temple’s excellent summer study abroad program in Paris and 
 ## Learn To Communicate. In Any Language.
 
 We provide students with real communication skills that are in-demand in our increasingly complex and interconnected world. Our students graduate not just with French language skills, but also with an understanding of cultural differences and the ability to analyze different types of communication.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic offerings
 
@@ -94,40 +96,6 @@ A student minoring in French can expect to take:
 - Courses in language (1000-level)
 - Courses in reading, composition, conversation or business (at the 2000-level)
 - Courses in literature, advanced composition, advanced grammar, culture or film (at the 3000-level)
-
-## Careers
-
-The French major is a great preparation for a career that requires analytical thinking and communication skills in general, which includes the domains of education, business, government service, travel, and tourism. It is a good major or a second major for students planning to attend law or medical school. Studies have shown that learning a foreign language helps raise scores on the LSAT, GRE, and MCAT exams. This course of study also proves valuable to anyone who plans to work for a multinational corporation.
-
-The program helps prepare students enrolled in the School of Education for careers teaching French and provides the opportunity to students enrolled in the Fox School of Business to acquire a certificate in French with a special course on French in the business world.
-
-Recent graduates with the French major also majored in Education, Business, Political Science and History to pursue careers in the fields of education, business, law, government, social media and journalism.
-
-Recent Temple graduates include students pursuing graduate degrees in French, High School and Middle School French teachers, numerous teaching assistants in France (in cities such as Montpellier, Nancy, Nice and Tours), a Peace Corps volunteer in Senegal, an executive assistant at Chanel’s American headquarters (Manhattan), a Lead Annotator at the Linguistic Data Consortium (University of Pennsylvania), and a food and travel writer who is the recent author of a guide to green spaces (Paris).
-
-Learn more about the Teaching Assistant Program in France by visiting https://www.tapif.org/
-
-## Tutoring
-
-The French program nominates qualified advanced students (French majors taking courses at the 3000- or 4000-level) with a strong interest in education to serve as tutors for students in the lower-level courses (1000-level).
-
-## Awards/Scholarships
-
-The department of FGIS offers Marthe Lavallée-Williams Study Abroad Scholarships & Grants ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
-
-The French section of the FGIS department offers the following scholarships and prizes:
-
-SENIOR: MARTHE LaVALLÉE-WILLIAMS PRIZE FOR EXCELLENCE IN FRENCH - Established in 2010 by a bequest from Dr. Marthe LaVallée-Williams, a former faculty member, this award is given to a student majoring in French who has excelled in the study of the French language.
-
-SENIOR: ROSEMARY HODGINS PRIZE IN FRENCH - This award is given by the Department of French, German, Italian, Slavic to a member of the graduating class in recognition of excellence in French studies.
-
-JUNIOR: BERNARD J. RADOFF (CLA '51, '68) MEMORIAL SCHOLARSHIP - Established by Annette S. Radoff, in memory of her uncle, Bernard J. Radoff, CLA '51, '68, this award is given to the junior majoring in French who has the highest grade point average in his or her major for the preceding three years. The scholarship is to be used in the fourth year.
-
-ANY LEVEL: MARTHE LAVALLÉE-WILLIAMS FRENCH CLUB LEADERSHIP PRIZE -Established by a bequest from Dr. Marthe Lavallée-Williams, a former faculty member, this award is given to a member of the French Club whose record of leadership and service has been exceptional.
-
-The Alliance française de Philadelphie offers the Pierre C. Fraley Scholarship for French majors/summer study abroad.
-
-Temple’s Education Abroad awards the Vira I. Heinz Study Abroad Scholarship for Women for summer study abroad. Learn more.
 
 ## Why Study French?
 
