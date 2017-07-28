@@ -66,20 +66,6 @@ Our courses are often small, allowing students to get to know each other and the
 - We encourage our students to study abroad.
 - We invite our students to participate in the activities of the French Club and benefit from various departmental events such as film festivals.
 
-## Programs of Study
-
-## Major in French
-
-The French major requires 10 courses (30 credits). Three courses are required at the 2000-level, one of which is a writing intensive course. Three courses are required at the 3000-level, one of which is a writing intensive course/the capstone. Two courses are required at the 4000-level. In addition, students take two electives: one 2000-level course or higher and one 3000-level course or higher.
-
-## Minor in French
-
-The French minor requires six courses (18-19 credits depending on the student’s starting point). Three courses at the 2000-level and at least one course at the 3000-level are required.
-
-## Foreign Language Certificate in French
-
-This option includes the French for Business course. The Foreign Language Certificate in French requires six courses (18-20 credits depending on the student’s starting point). Three courses at the 2000-level are required.
-
 ## Curriculum
 
 A student majoring in French can expect to take:
@@ -96,4 +82,3 @@ A student minoring in French can expect to take:
 - Courses in language (1000-level)
 - Courses in reading, composition, conversation or business (at the 2000-level)
 - Courses in literature, advanced composition, advanced grammar, culture or film (at the 3000-level)
-
