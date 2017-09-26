@@ -1,7 +1,10 @@
 ---
 title: Research
-permalink: "/research/"
+permalink: /research/
 layout: page
+keywords: ''
+description: >- 
+published: false
 ---
 
 
