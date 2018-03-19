@@ -7,7 +7,12 @@ description: >-
 published: true
 ---
 
-## Next Stops
+## Careers
+The French major is a great preparation for a career that requires analytical thinking and communication skills in general, which includes the domains of education, business, government service, travel, and tourism. It is a good major or a second major for students planning to attend law or medical school. Studies have shown that learning a foreign language helps raise scores on the LSAT, GRE, and MCAT exams. This course of study also proves valuable to anyone who plans to work for a multinational corporation.
+
+The program helps prepare students enrolled in the School of Education for careers teaching French and provides the opportunity to students enrolled in the Fox School of Business to acquire a certificate in French with a special course on French in the business world. Recent graduates with the French major also majored in Education, Business, Political Science and History to pursue careers in the fields of education, business, law, government, social media and journalism.
+
+Recent Temple graduates include students pursuing graduate degrees in French, High School and Middle School French teachers, numerous teaching assistants in France (in cities such as Montpellier, Nancy, Nice and Tours), a Peace Corps volunteer in Senegal, an executive assistant at Chanel’s American headquarters (Manhattan), a Lead Annotator at the Linguistic Data Consortium (University of Pennsylvania), and a food and travel writer who is the recent author of a guide to green spaces (Paris). Learn more about the [Teaching Assistant Program in France](https://www.tapif.org/).
 
 Studying French opens doors across many industries, including:
 
@@ -22,22 +27,18 @@ Studying French opens doors across many industries, including:
 - Health care
 
 ## Make your Declaration
-
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](https://liberalarts.temple.edu/)
 
 ## Visit Us
-
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.   
 
 ## Thinking of Transferring
-
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.   To learn more about transferring to Temple,  
 please visit temple.edu/transfer](http://temple.edu/transfer). 
 
 ## Apply
-
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
 
 ## Deadlines
