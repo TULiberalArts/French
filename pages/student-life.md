@@ -19,7 +19,7 @@ Study abroad is a crucial part of language learning and intercultural developmen
 The French program nominates qualified advanced students (French majors taking courses at the 3000- or 4000-level) with a strong interest in education to serve as tutors for students in the lower-level courses (1000-level).
 
 ## Awards/Scholarships
-The department of FGIS offers Marthe Lavallée-Williams Study Abroad Scholarships & Grants (**waiting on form url**) ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
+The department of FGIS offers [Marthe Lavallée-Williams Study Abroad Scholarships & Grants](https://form.jotform.com/80604448772158) ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
 
 The French section of the FGIS department offers the following scholarships and prizes:
 
