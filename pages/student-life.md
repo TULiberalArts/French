@@ -1,13 +1,11 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 layout: page
 keywords: ''
 description: >-
 published: true
 ---
-
-## Resources are here to help!
 
 ## Study Abroad in Paris
 
