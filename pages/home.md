@@ -9,7 +9,7 @@ feature-title: Learn To Communicate. In Any Language.
 feature-body: >-
   Immerse yourself in the study of the language while also learning about French and Francophone 
   cultures — from historical time periods to the present day.
-feature-image: media/French hero.jpg
+feature-image: media/resized French hero.png
 published: true
 ---
 ## Why Study French?
