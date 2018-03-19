@@ -22,12 +22,29 @@ sidebar-content: |
    [pugliese@temple.edu](mailto:pugliese@temple.edu)  
    
    ___
+   
+   **Study Abroad Faculty Advisor:**  
+   Michelle Pugliese  
+   549 Anderson Hall   
+   [(215) 204-8273](tel:2152048273)  
+   [wilbert@temple.edu](mailto:wilbert@temple.edu)  
+   
+   ___
+   
+   **Faculty Advisor:**  
+   Ruth Thomas  
+   548 Anderson Hall   
+   [(215) 204-1758](tel:2152041758)  
+   [rpthomas@temple.edu](mailto:rpthomas@temple.edu)  
+   
+   ___ 
 
    **Coordinator:**  
    Stephanie Smith  
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+   
 ---
 ## Join a Community That Cares
 Our bachelor’s degree in French helps students develop skill in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
