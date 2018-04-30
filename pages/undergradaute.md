@@ -53,6 +53,12 @@ French students are part of a small and dynamic learning community within the la
 
 Students also have the opportunity to engage with French-speaking communities in the Greater Philadelphia area, and participate in activities promoted by French- related institutions like the Alliance Française, the French-American Chamber of Commerce, and the Cultural Services of the French Embassy in Washington, DC.
 
+The French major helps students develop skills in reading, writing and oral communication while providing them with a rich understanding of the literature, cinema and traditions of one or more Francophone cultures. As they improve their linguistic skills and study various forms of cultural production, French majors also strengthen their ability to analyze and interpret in a way that enhances their overall education. Majors complete the program with an ability to communicate, a grounding in literary tradition, and an awareness of cultural differences that has become increasingly important in the world today. Majors acquire the knowledge and intellectual skills needed to participate fully in French speech communities as well as an understanding of the multicultural realities of those communities.
+
+The French program offers a full array of courses ranging from introductory language courses to advanced-level literature, film and culture courses taught in French.
+
+[Learn more about the Major, Minor and Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/#programstext)
+
 ## A World Language
 More than 200 million people speak French on the five continents. La Francophonie, the international organization of French-speaking countries, comprises 68 states and governments. French is the second most widely learned foreign language after English, and the ninth most widely spoken language in the world. French is also the only language, alongside English, that is taught in every country in the world. France operates the biggest international network of cultural institutes, which run French-language courses for more than 750,000 learners.
 
@@ -68,10 +74,3 @@ A language that opens up the world: After English and German, French is the thir
 
 **A language for learning other languages:** French is a good base for learning other languages, especially Romance languages (Spanish, Italian, Portuguese and Romanian) as well as English, since fifty per cent of current English vocabulary is derived from French.
 The language of love and reason: Learning French is the pleasure of learning a beautiful, rich, melodious language, often called the language of love. French is also an analytical language that structures thought and develops critical thinking, which is a valuable skill for discussions and negotiations.
-
-## Program Overview
-The French major helps students develop skills in reading, writing and oral communication while providing them with a rich understanding of the literature, cinema and traditions of one or more Francophone cultures. As they improve their linguistic skills and study various forms of cultural production, French majors also strengthen their ability to analyze and interpret in a way that enhances their overall education. Majors complete the program with an ability to communicate, a grounding in literary tradition, and an awareness of cultural differences that has become increasingly important in the world today. Majors acquire the knowledge and intellectual skills needed to participate fully in French speech communities as well as an understanding of the multicultural realities of those communities.
-
-The French program offers a full array of courses ranging from introductory language courses to advanced-level literature, film and culture courses taught in French.
-
-[Learn more about the Major, Minor and Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/#programstext)
