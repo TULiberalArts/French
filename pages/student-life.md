@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'study abroad, tutoring, awards and scholarships'
 description: >-
 published: true
 sidebar: true
