@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
+keywords: 'graduate language exams, french, radio, television, research, language study'
 description: >- 
 published: true
 ---
