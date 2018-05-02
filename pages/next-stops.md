@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
+keywords: 'apply, visit, careers, recent graduates'
 description: >-
 published: true
 ---
@@ -15,7 +15,6 @@ The program helps prepare students enrolled in the School of Education for caree
 Recent Temple graduates include students pursuing graduate degrees in French, High School and Middle School French teachers, numerous teaching assistants in France (in cities such as Montpellier, Nancy, Nice and Tours), a Peace Corps volunteer in Senegal, an executive assistant at Chanel’s American headquarters (Manhattan), a Lead Annotator at the Linguistic Data Consortium (University of Pennsylvania), and a food and travel writer who is the recent author of a guide to green spaces (Paris). Learn more about the [Teaching Assistant Program in France](https://www.tapif.org/).
 
 Studying French opens doors across many industries, including:
-
 - Education
 - Journalism
 - Government
