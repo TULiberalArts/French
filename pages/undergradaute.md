@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'french, language, culture, international, linguistics'
 description: >-
 published: true
 sidebar: true
