@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'study french, academic offerings, major, minor, certificate'
 feature: true
 feature-title: Learn To Communicate. In Any Language.
 feature-body: >-
