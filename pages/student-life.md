@@ -44,8 +44,8 @@ sidebar-content: |
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
-   
 ---
+As a College of Liberal Arts French degree student, you’ll learn France here in North Philly. But we also want you to see France by [studying abroad](#study-abroad-in-paris) in the City of Lights—Paris! And if you need more help advancing your French, the College of Liberal Arts has [tutoring services](#tutoring) available for you. And with a little help, you might even improve your French enough to earn [awards or scholarships](#awards-and-scholarships).
 
 ## Study Abroad in Paris
 ![Paris Study Abroad]({{site.baseurl}}/media/resized Study Abroad Paris.jpg){:.img-right}
@@ -59,7 +59,7 @@ Study abroad is a crucial part of language learning and intercultural developmen
 ## Tutoring
 The French program nominates qualified advanced students (French majors taking courses at the 3000- or 4000-level) with a strong interest in education to serve as tutors for students in the lower-level courses (1000-level).
 
-## Awards/Scholarships
+## Awards and Scholarships
 The department of FGIS offers [Marthe Lavallée-Williams Study Abroad Scholarships & Grants](https://form.jotform.com/80604448772158) ranging from $2,000-8,000 to CLA undergraduate students in good academic standing. Assorted awards support language study in France or Italy for 1 semester, 1 academic year or 1 summer.
 
 The French section of the FGIS department offers the following scholarships and prizes:
