@@ -6,6 +6,8 @@ keywords: 'graduate language exams, french, radio, television, research, languag
 description: >- 
 published: true
 ---
+Need more information before applying to Temple University’s French degree program? Take our [Graduate Language Translation Exam](#graduate-language-translation-exams), try a [French language study](#french-language-study), research the [language and culture](#french-and-francophone-cultural-and-literary-research), learn about [French in America](#french-in-america) or check out our [additional resources](#additional-university-resources).
+
 ## Graduate Language Translation Exams
 Graduate Language Translation Exams in French, German, and Italian are held twice each semester. Exams in Russian can be arranged by appointment. The department will notify students of their results by email.
 
