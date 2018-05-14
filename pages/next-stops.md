@@ -6,6 +6,7 @@ keywords: 'apply, visit, careers, recent graduates'
 description: >-
 published: true
 ---
+Where can a Temple University French degree take you? Your [career options](#careers) range from translation to education to government and more. [Make your declaration](#make-your-declaration) at the College of Liberal Arts by [visiting us](#visit-us) and [applying](#apply) today. Need more information? Read up on our [application deadlines](#deadlines) and [transfer opportunities](#thinking-of-transferring).
 
 ## Careers
 The French major is a great preparation for a career that requires analytical thinking and communication skills in general, which includes the domains of education, business, government service, travel, and tourism. It is a good major or a second major for students planning to attend law or medical school. Studies have shown that learning a foreign language helps raise scores on the LSAT, GRE, and MCAT exams. This course of study also proves valuable to anyone who plans to work for a multinational corporation.
@@ -41,7 +42,6 @@ please visit temple.edu/transfer](http://temple.edu/transfer).
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
 
 ## Deadlines
-
 - February 1: Freshman Application Deadline for Fall Semester
 - March 1: FAFSA Financial Aid Application Deadline
 - November 1: Transfer Deadline for Spring Semester
