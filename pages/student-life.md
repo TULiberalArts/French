@@ -1,49 +1,15 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'study abroad, tutoring, awards and scholarships'
-description: >-
 published: true
+ # meta-data variables
+title: Student Life
+description: >-
+keywords: 'study abroad, tutoring, awards and scholarships'
+ # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-   
-   **Study Abroad Faculty Advisor:**  
-   Michelle Pugliese  
-   549 Anderson Hall   
-   [(215) 204-8273](tel:2152048273)  
-   [wilbert@temple.edu](mailto:wilbert@temple.edu)  
-   
-   ___
-   
-   **Faculty Advisor:**  
-   Ruth Thomas  
-   548 Anderson Hall   
-   [(215) 204-1758](tel:2152041758)  
-   [rpthomas@temple.edu](mailto:rpthomas@temple.edu)  
-   
-   ___ 
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+sidebar-content: sidebar/student-life-contacts.html 
 ---
 As a College of Liberal Arts French degree student, you’ll learn France here in North Philly. But we also want you to see France by [studying abroad](#study-abroad-in-paris) in the City of Lights—Paris! And if you need more help advancing your French, the College of Liberal Arts has [tutoring services](#tutoring) available for you. And with a little help, you might even improve your French enough to earn [awards or scholarships](#awards-and-scholarships).
 
@@ -68,8 +34,8 @@ The French section of the FGIS department offers the following scholarships and 
 - [Marthe LaVallée-Williams Prize for Excellence In French](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4587&field_awards_academics_class_value=All)
 - [Rosemary Hodgins Prize in French](https://liberalarts.temple.edu/about-us/awards/rosemary-hodgins-prize-french)
 
-**Junior:** 
-- [Bernard J. Radoff Memorial Scholarship (CLA'51,'68)](https://liberalarts.temple.edu/about-us/awards/bernard-j-radoff-memorial-scholarship) 
+**Junior:**
+- [Bernard J. Radoff Memorial Scholarship (CLA'51,'68)](https://liberalarts.temple.edu/about-us/awards/bernard-j-radoff-memorial-scholarship)
 
 **Any Academic Level:**
 - Marthe LaVallée-Williams French Club Leadership Prize **THIS CONTENT NEEDS TO BE SUBMITTED IN A TICKET AS AN UPDATE TO THE LIBERAL ARTS AWARDS PAGE SO THIS AWARD CAN LINK TO THE LIBERAL ARTS AWARDS PAGE** Established by a bequest from Dr. Marthe Lavallée-Williams, a former faculty member, this award is given to a member of the French Club whose record of leadership and service has been exceptional.

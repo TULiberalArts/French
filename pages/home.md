@@ -1,16 +1,20 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+ # meta-data variables
+title: Home
 description: >-
 keywords: 'study french, academic offerings, major, minor, certificate'
+ # custom variables
 feature: true
 feature-title: Learn To Communicate. In Any Language.
 feature-body: >-
   Immerse yourself in the study of the language while also learning about French
   and Francophone cultures — from historical time periods to the present day.
 feature-image: media/resized French hero.png
-published: true
+
 ---
 ## Why Study French?
 A major in French allows you to become well versed in language as well as international cinema and literature, while learning to analyze and interpret communication with a thorough understanding of cultural differences. We provide students with real communication skills that are in-demand in our increasingly complex and interconnected world. Our students graduate not just with French language skills, but also with an understanding of cultural differences and the ability to analyze different types of communication.
@@ -24,27 +28,27 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Ah, Paris!" 
-    content="Take advantage of Temple’s excellent summer study abroad program in Paris and apply for our merit-based scholarship to defray the costs. " 
-    image="" 
-    button-link="/student-life#study-abroad-in-paris/" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Ah, Paris!"
+    content="Take advantage of Temple’s excellent summer study abroad program in Paris and apply for our merit-based scholarship to defray the costs. "
+    image=""
+    button-link="/student-life#study-abroad-in-paris/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content=" " 
-      image="" 
-      button-link=" " 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NEED CONTENT"
+      content=" "
+      image=""
+      button-link=" "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content=" " 
-        image="" 
-        button-link=" " 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="NEED CONTENT"
+        content=" "
+        image=""
+        button-link=" "
         button-text="Learn More" %}
       </div>
 </div>

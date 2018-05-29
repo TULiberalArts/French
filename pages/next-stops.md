@@ -1,10 +1,12 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
+published: true
+ # meta-data variables
+title: Next Stops
 keywords: 'apply, visit, careers, recent graduates'
 description: >-
-published: true
 ---
 Where can a Temple University French degree take you? Your [career options](#careers) range from translation to education to government and more. [Make your declaration](#make-your-declaration) at the College of Liberal Arts by [visiting us](#visit-us) and [applying](#apply) today. Need more information? Read up on our [application deadlines](#deadlines) and [transfer opportunities](#thinking-of-transferring).
 
@@ -36,7 +38,7 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 
 ## Thinking of Transferring
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.   To learn more about transferring to Temple,  
-please visit temple.edu/transfer](http://temple.edu/transfer). 
+please visit temple.edu/transfer](http://temple.edu/transfer).
 
 ## Apply
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)

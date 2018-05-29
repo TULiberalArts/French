@@ -1,10 +1,12 @@
 ---
-title: Resources
-permalink: /resources/
+# global predefined variables
 layout: page
-keywords: 'graduate language exams, french, radio, television, research, language study'
-description: >- 
+permalink: /resources/
 published: true
+ # meta-data variables
+title: Resources
+keywords: 'graduate language exams, research, language study'
+description: >-
 ---
 Need more information before applying to Temple University’s French degree program? Take our [Graduate Language Translation Exam](#graduate-language-translation-exams), try a [French language study](#french-language-study), research the [language and culture](#french-and-francophone-cultural-and-literary-research), learn about [French in America](#french-in-america) or check out our [additional resources](#additional-university-resources).
 
@@ -23,7 +25,7 @@ The passage may be chosen based upon the recommendation of the student’s advis
 (c) the passage must be reviewed by the examiner for degree of difficulty. This assessment must be done **no earlier nor later than one week prior to the exam**. The determination of degree of difficulty is especially important in the case of students who may be aiming for advanced proficiency.
 (d) In the past, submitted passages have been rejected for not meeting the conditions as spelled out in sections (a), (b), and (c) above.
 
-The passage selected to be translated from the original language to English during the exam shall be approximately 350 words in length, and must be translated within ninety minutes. Students may use a dictionary or other resources in doing their translation. However, **no electronic resources will be allowed**. 
+The passage selected to be translated from the original language to English during the exam shall be approximately 350 words in length, and must be translated within ninety minutes. Students may use a dictionary or other resources in doing their translation. However, **no electronic resources will be allowed**.
 
 A passing grade is given if the passage is translated completely with an accuracy rating of satisfactory, and with minimal errors in grammar. However, in the case of students who choose to be tested for advanced proficiency, seeking thereby to be exempted from being tested in another language, an accuracy rating of excellent is required.
 
@@ -45,15 +47,15 @@ For additional information on language translation exams, please contact the app
 - [http://www.french-linguistics.co.uk/dictionary/](http://www.french-linguistics.co.uk/dictionary/)
 
 ### Professional Organizations
-- [AATF: American Association of Teachers of French](http://www.frenchteachers.org/) 
-- [MLA:  Modern Language Association](http://www.mla.org/) 
-- [ACTFL: American Council on the Teaching of Foreign Languages](http://www.actfl.org/?pageid=1) 
+- [AATF: American Association of Teachers of French](http://www.frenchteachers.org/)
+- [MLA:  Modern Language Association](http://www.mla.org/)
+- [ACTFL: American Council on the Teaching of Foreign Languages](http://www.actfl.org/?pageid=1)
 
 ## French and Francophone Cultural and Literary Research
 
 ### Radio and Television Broadcasts
-- [Radio France Intérnationale](http://www.rfi.fr/) 
-- [TV 5](http://www.tv5monde.com/index.php) 
+- [Radio France Intérnationale](http://www.rfi.fr/)
+- [TV 5](http://www.tv5monde.com/index.php)
 - [France 2 (TV)](http://www.france2.fr/)
 
 ### French and Francophone Cinema Information
@@ -61,8 +63,8 @@ For additional information on language translation exams, please contact the app
 - [http://www.cinefil.com/](http://www.cinefil.com/)
 
 ### French Daily Newspapers
-- [La Libération](http://www.liberation.fr/) 
-- [Le Monde](http://www.lemonde.fr/) 
+- [La Libération](http://www.liberation.fr/)
+- [Le Monde](http://www.lemonde.fr/)
 
 ### Official Webpages of the French Government
 - [http://www.culture.fr](http://www.culture.fr)
@@ -87,10 +89,10 @@ For additional information on language translation exams, please contact the app
 - [http://www.musee-orsay.fr](http://www.musee-orsay.fr)
 
 ## French in America
-- [France in America (Library of Congress)](http://international.loc.gov/intldl/fiahtml/) 
-- [French film screenings in America](http://www.frenchflicks.com) 
-- [HALO: Haitian-American leadership organization](http://www.halohaiti.org/) 
-- [New York City Francophone](http://www.lehman.cuny.edu/deanhum/langlit/french/nycfranc.html) 
+- [France in America (Library of Congress)](http://international.loc.gov/intldl/fiahtml/)
+- [French film screenings in America](http://www.frenchflicks.com)
+- [HALO: Haitian-American leadership organization](http://www.halohaiti.org/)
+- [New York City Francophone](http://www.lehman.cuny.edu/deanhum/langlit/french/nycfranc.html)
 
 ## Additional University Resources
 - [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
