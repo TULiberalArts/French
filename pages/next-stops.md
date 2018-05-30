@@ -7,6 +7,7 @@ published: true
 title: Next Stops
 keywords: 'apply, visit, careers, recent graduates'
 description: >-
+# custom variables
 ---
 Where can a Temple University French degree take you? Your [career options](#careers) range from translation to education to government and more. [Make your declaration](#make-your-declaration) at the College of Liberal Arts by [visiting us](#visit-us) and [applying](#apply) today. Need more information? Read up on our [application deadlines](#deadlines) and [transfer opportunities](#thinking-of-transferring).
 

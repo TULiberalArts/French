@@ -1,12 +1,13 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /resources/
 published: true
  # meta-data variables
 title: Resources
-keywords: 'graduate language exams, research, language study'
 description: >-
+keywords: 'graduate language exams, research, language study'
+ # custom variables
 ---
 Need more information before applying to Temple University’s French degree program? Take our [Graduate Language Translation Exam](#graduate-language-translation-exams), try a [French language study](#french-language-study), research the [language and culture](#french-and-francophone-cultural-and-literary-research), learn about [French in America](#french-in-america) or check out our [additional resources](#additional-university-resources).
 

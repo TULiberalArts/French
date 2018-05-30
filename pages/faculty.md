@@ -7,4 +7,5 @@ published: true
 title: Faculty
 description: >-
 keywords: 'french, faculty, foreign language'
+ # custom variables
 ---

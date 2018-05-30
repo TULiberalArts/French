@@ -1,10 +1,13 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 keywords: 'french, language, culture, international, linguistics'
 description: >-
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -37,7 +40,7 @@ sidebar-content: |
    [(215) 204-1758](tel:2152041758)  
    [rpthomas@temple.edu](mailto:rpthomas@temple.edu)  
    
-   ___ 
+   ___
 
    **Coordinator:**  
    Stephanie Smith  
