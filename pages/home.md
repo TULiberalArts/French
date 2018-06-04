@@ -6,6 +6,8 @@ published: true
  # meta-data variables
 title: Home
 description: >-
+ Become interconnected in a diverse world by studying the French language and culture at Temple University in 
+ the College of Liberal Arts. View our academic offerings, and Major, Minor, or earn a Certificate in French.
 keywords: 'study french, academic offerings, major, minor, certificate'
  # custom variables
 feature: true
