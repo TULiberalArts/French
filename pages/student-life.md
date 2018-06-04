@@ -6,6 +6,8 @@ published: true
  # meta-data variables
 title: Student Life
 description: >-
+ Study abroad in Paris, earn awards and scholarships in your studies, or utilize the College of Liberal
+ Arts’ tutoring services if you’re in need of help advancing your French while studying at Temple University.
 keywords: 'study abroad, tutoring, awards and scholarships'
  # custom variables
 sidebar: true
