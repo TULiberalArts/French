@@ -6,6 +6,8 @@ published: true
  # meta-data variables
 title: Resources
 description: >-
+  Take Temple University’s Graduate Language Translation Exam, try a French language study, research the language and
+  culture, and learn about French in America. See what resources are available to you at the College of Liberal Arts.
 keywords: 'graduate language exams, research, language study'
  # custom variables
 ---
