@@ -7,6 +7,8 @@ published: true
 title: Undergraduate
 keywords: 'french, language, culture, international, linguistics'
 description: >-
+ Learn a world language and culture and earn a B.A., minor, or certificate in French at 
+ Temple University. Courses stretch from introduction-level to culture & literature.
 # custom variables
 sidebar: true
 sidebar-content: |
