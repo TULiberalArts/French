@@ -6,7 +6,7 @@ published: true
  # meta-data variables
 title: Home
 description: >-
- Become interconnected in a diverse world by studying the French language and culture at Temple University in 
+ Become interconnected in a diverse world by studying the French language and culture at Temple University in
  the College of Liberal Arts. View our academic offerings, and Major, Minor, or earn a Certificate in French.
 keywords: 'study french, academic offerings, major, minor, certificate'
  # custom variables
@@ -16,7 +16,7 @@ feature-body: >-
   Immerse yourself in the study of the language while also learning about French
   and Francophone cultures — from historical time periods to the present day.
 feature-image: media/resized French hero.png
-
+sidebar: false
 ---
 ## Why Study French?
 A major in French allows you to become well versed in language as well as international cinema and literature, while learning to analyze and interpret communication with a thorough understanding of cultural differences. We provide students with real communication skills that are in-demand in our increasingly complex and interconnected world. Our students graduate not just with French language skills, but also with an understanding of cultural differences and the ability to analyze different types of communication.

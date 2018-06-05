@@ -8,4 +8,5 @@ title: Graduate
 keywords: ''
 description: >-
 # custom variables
+sidebar: false
 ---
