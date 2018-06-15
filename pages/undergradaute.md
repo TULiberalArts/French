@@ -10,7 +10,8 @@ description: >-
  Learn a world language and culture and earn a B.A., minor, or certificate in French at
  Temple University. Courses stretch from introduction-level to culture & literature.
 # custom variables
-sidebar: false
+sidebar: true
+sidebar_content: undergraduate.html
 ---
 Earn your [French degree](ba-in-french) at Temple University’s College of Liberal Arts! French is a [world language](#a-world-language) that will prepare you to enter the job market with a deep understanding of [French culture](#the-language-of-culture).
 
