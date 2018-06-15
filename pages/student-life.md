@@ -10,7 +10,8 @@ description: >-
  Arts’ tutoring services if you’re in need of help advancing your French while studying at Temple University.
 keywords: 'study abroad, tutoring, awards and scholarships'
 # custom variables
-sidebar: false
+sidebar: true
+sidebar_content: sidebars/student-life.html
 ---
 As a College of Liberal Arts French degree student, you’ll learn France here in North Philly. But we also want you to see France by [studying abroad](#study-abroad-in-paris) in the City of Lights—Paris! And if you need more help advancing your French, the College of Liberal Arts has [tutoring services](#tutoring) available for you. And with a little help, you might even improve your French enough to earn [awards or scholarships](#awards-and-scholarships).
 
