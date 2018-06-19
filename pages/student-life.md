@@ -21,7 +21,7 @@ Students declaring a major or minor in French are strongly encouraged to study a
 
 Study abroad is a crucial part of language learning and intercultural development. One of the most rewarding experiences of learning French is traveling to Francophone countries to interact with native speakers and experience their cultures firsthand.
 
-- **Application Deadline: February 15, 2016**
+- **Application Deadline: February 15**
 - [Learn More About Studying Abroad in Paris](http://temple.us11.list-manage.com/track/click?u=909f549002f3ee69f5f0ecbe9&id=ff5e6c633d&e=4df0fdc07c)
 
 ## Tutoring
