@@ -34,7 +34,7 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
     title="Ah, Paris!"
     content="Take advantage of Temple’s excellent summer study abroad program in Paris and apply for our merit-based scholarship to defray the costs. "
     image=""
-    button-link="/student-life#study-abroad-in-paris/"
+    button-link="/french/student-life#study-abroad-in-paris/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
