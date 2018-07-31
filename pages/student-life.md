@@ -40,7 +40,7 @@ The French section of the FGIS department offers the following scholarships and 
 - [Bernard J. Radoff Memorial Scholarship (CLA'51,'68)](https://liberalarts.temple.edu/about-us/awards/bernard-j-radoff-memorial-scholarship)
 
 **Any Academic Level:**
-- Marthe LaVallée-Williams French Club Leadership Prize **THIS CONTENT NEEDS TO BE SUBMITTED IN A TICKET AS AN UPDATE TO THE LIBERAL ARTS AWARDS PAGE SO THIS AWARD CAN LINK TO THE LIBERAL ARTS AWARDS PAGE** Established by a bequest from Dr. Marthe Lavallée-Williams, a former faculty member, this award is given to a member of the French Club whose record of leadership and service has been exceptional.
+- [Marthe LaVallée-Williams French Club Leadership Prize](https://liberalarts.temple.edu/about-us/awards/marthe-lavall-e-williams-prize-excellence-french): Established by a bequest from Dr. Marthe Lavallée-Williams, a former faculty member, this award is given to a member of the French Club whose record of leadership and service has been exceptional.
 - The [Alliance française de Philadelphie](http://www.afphila.com/page-1737827) offers the Pierre C. Fraley Scholarship for French majors/summer study abroad.
 - Temple’s Education Abroad awards the [Vira I. Heinz Study Abroad Scholarship for Women](http://www.viraheinz.pitt.edu/) for summer study abroad.
 
