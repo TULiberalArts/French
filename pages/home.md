@@ -33,3 +33,4 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)
  
  ___
+
