@@ -28,6 +28,8 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
  - [BA in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/ba-french/)
  - [Minor in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/minor-french/)
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)
+ 
+ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
