@@ -33,7 +33,7 @@ The department of FGIS offers [Marthe Lavallée-Williams Study Abroad Scholarshi
 The French section of the FGIS department offers the following scholarships and prizes:
 
 **Senior:**
-- [Marthe LaVallée-Williams Prize for Excellence In French](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4587&field_awards_academics_class_value=All)
+- [Marthe LaVallée-Williams Prize for Excellence In French](https://liberalarts.temple.edu/about-us/awards/marthe-lavall-e-williams-prize-excellence-french)
 - [Rosemary Hodgins Prize in French](https://liberalarts.temple.edu/about-us/awards/rosemary-hodgins-prize-french)
 
 **Junior:**
