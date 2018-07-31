@@ -30,29 +30,3 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)
  
  ___
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="Ah, Paris!"
-    content="Take advantage of Temple’s excellent summer study abroad program in Paris and apply for our merit-based scholarship to defray the costs. "
-    image=""
-    button-link="/french/student-life#study-abroad-in-paris/"
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT"
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NEED CONTENT"
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
