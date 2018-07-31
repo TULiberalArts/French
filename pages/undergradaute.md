@@ -25,7 +25,7 @@ The French program offers a full array of courses ranging from introductory lang
 - Learn more about the [Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)<br>
 
 ## Join a Community That Cares
-Our bachelor’s degree in French helps students develop skill in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
+Our bachelor’s degree in French helps students develop skills in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
 
 French students are part of a small and dynamic learning community within the larger university — which means you can benefit from one-on-one time with faculty while  establishing close bonds with your peers. Because the French program is devoted solely to undergraduate  education, students have our faculty’s full attention.
 
@@ -39,7 +39,7 @@ More than 200 million people speak French on the five continents. La Francophoni
 
 ## The Language of Culture
 French is the international language of cooking, fashion, theater, the visual arts, dance and architecture. A knowledge of French offers access to great works of literature, as well as films and songs, in the original French.
-A language for travel: France is the world’s number-one tourist destination and attracts more than 70 million visitors a year. A little French makes it so much more enjoyable to visit Paris and all the regions of France, offering insights into French culture, mentality and way of life. French also comes in handy when travelling to Africa, Switzerland, Canada, Monaco, the Seychelles and other places.
+A language for travel: France is the world’s number-one tourist destination and attracts more than 70 million visitors per year. A little French makes it so much more enjoyable to visit Paris and all the regions of France, offering insights into French culture, mentality and way of life. French also comes in handy when travelling to Africa, Switzerland, Canada, Monaco, the Seychelles and other places.
 
 **The other language of international relations:** French is both a working language and an official language of the United Nations, the European Union, UNESCO, NATO, the International Olympic Committee, the International Red Cross and international courts. French is the language of the three cities where the EU institutions are headquartered: Strasbourg, Brussels and Luxembourg.
 A language that opens up the world: After English and German, French is the third most used language on the Internet, ahead of Spanish. An ability to understand French offers an alternative view of the world through communication with French speakers from all the continents and news from the leading French-language international media.
