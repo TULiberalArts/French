@@ -23,7 +23,7 @@ The French program offers a full array of courses ranging from introductory lang
 
 - Learn more about the [B.A. in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/ba-french/)<br>
 - Learn more about the [Minor in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/minor-french/)<br>
-- Learn more about the [Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/certificate-french/)<br>
+- Learn more about the [Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-french/)<br>
 
 ## Join a Community That Cares
 Our bachelor’s degree in French helps students develop skills in reading, writing and oral communication in French. Students acquire a deep understanding of the literature, cinema, history and traditions of one or more Francophone cultures. They perfect their linguistic skills and study various forms of cultural production from other nations. They strengthen their ability to analyze and interpret the language and culture—and gain insight into their own identities and assumptions.
