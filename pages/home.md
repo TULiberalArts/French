@@ -10,6 +10,7 @@ description: >-
  the College of Liberal Arts. View our academic offerings, and Major, Minor, or earn a Certificate in French.
 keywords: 'study french, academic offerings, major, minor, certificate'
  # custom variables
+promotion-table: true
 feature: true
 feature-title: Learn To Communicate. In Any Language.
 feature-body: >-
@@ -33,4 +34,3 @@ Throughout your studies, you will enjoy small classes that allow you to get to k
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-french/)
  
  ___
-
