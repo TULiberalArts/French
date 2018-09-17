@@ -13,13 +13,13 @@ keywords: 'study french, academic offerings, major, minor, certificate'
 promotion-table: true
 sidebar: false
 feature: true
-feature-title: Learn To Communicate. In Any Language.
-feature-body: >-
-  Immerse yourself in the study of the language while also learning about French
-  and Francophone cultures — from historical time periods to the present day.
 feature-image: media/French_hero_final.png
 
 ---
+## Learn To Communicate. In Any Language.
+Immerse yourself in the study of the language while also learning about French
+and Francophone cultures — from historical time periods to the present day.
+
 ## Why Study French?
 A major in French allows you to become well versed in language as well as international cinema and literature, while learning to analyze and interpret communication with a thorough understanding of cultural differences. We provide students with real communication skills that are in-demand in our increasingly complex and interconnected world. Our students graduate not just with French language skills, but also with an understanding of cultural differences and the ability to analyze different types of communication.
 
