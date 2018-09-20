@@ -16,7 +16,7 @@ sidebar_content: sidebars/student-life.html
 As a College of Liberal Arts French degree student, you’ll learn France here in North Philly. But we also want you to see France by [studying abroad](#study-abroad-in-paris) in the City of Lights—Paris! And if you need more help advancing your French, the College of Liberal Arts has [tutoring services](#tutoring) available for you. And with a little help, you might even improve your French enough to earn [awards or scholarships](#awards-and-scholarships).
 
 ## Study Abroad in Paris
-![Paris Study Abroad]({{site.baseurl}}/media/resized Study Abroad Paris.jpg){:.img-right}
+![Paris Study Abroad]({{site.baseurl}}/media/resized Study Abroad Paris.jpg){:.responsive-img .img-right}
 Students declaring a major or minor in French are strongly encouraged to study abroad. Temple University has a summer program at the Sorbonne in Paris where students can immerse themselves in the language and contemporary cultural life. Credits earned through the Temple Sorbonne Program may be used toward the French major, minor, certificate and for satisfaction of the GenEd World Society requirement.
 
 Study abroad is a crucial part of language learning and intercultural development. One of the most rewarding experiences of learning French is traveling to Francophone countries to interact with native speakers and experience their cultures firsthand.
