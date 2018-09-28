@@ -11,7 +11,7 @@ description: >-
 keywords: 'study french, academic offerings, major, minor, certificate'
  # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/French_hero_final.png
 

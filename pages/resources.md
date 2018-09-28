@@ -10,7 +10,6 @@ description: >-
   culture, and learn about French in America. See what resources are available to you at the College of Liberal Arts.
 keywords: 'graduate language exams, research, language study'
 # custom variables
-sidebar: false
 ---
 Need more information before applying to Temple University’s French degree program? Take our [Graduate Language Translation Exam](#graduate-language-translation-exams), try a [French language study](#french-language-study), research the [language and culture](#french-and-francophone-cultural-and-literary-research), learn about [French in America](#french-in-america) or check out our [additional resources](#additional-university-resources).
 

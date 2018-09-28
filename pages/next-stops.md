@@ -10,7 +10,7 @@ description: >-
  Learn about your career options as a Temple University graduate with a degree in French. Make your declaration
  in the College of Liberal Arts, visit us, look into our application deadlines and transfer opportunities, and apply.
  # custom variables
- sidebar: false
+ 
 ---
 Where can a Temple University French degree take you? Your [career options](#careers) range from translation to education to government and more. [Make your declaration](#make-your-declaration) at the College of Liberal Arts by [visiting us](#visit-us) and [applying](#apply) today. Need more information? Read up on our [application deadlines](#deadlines) and [transfer opportunities](#thinking-of-transferring).
 
