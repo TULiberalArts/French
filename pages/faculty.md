@@ -8,5 +8,6 @@ title: Faculty
 description: >-
  Meet our faculty in the French department of the College of Liberal Arts at Temple University!
 keywords: 'french, faculty, foreign language'
-
+#custom variables
+faculty: profiles/faculty.html
 ---
