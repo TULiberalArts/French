@@ -7,7 +7,7 @@ French is statically generated with [Jekyll](https://jekyllrb.com) and hosted by
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/french/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/french/ |
 
 ## Content Structure
 
