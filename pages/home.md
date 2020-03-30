@@ -29,11 +29,11 @@ You’ll enjoy small classes that allow you to get to know your classmates, as w
  
 <div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/WmdjoATxzl0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
- ___
-
 ## Academic offerings
 
  - [BA in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/ba-french/)
  - [Minor in French](http://bulletin.temple.edu/undergraduate/liberal-arts/french/minor-french/)
  - [Foreign Language Certificate in French](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-french/)
+ 
+ ___
  
