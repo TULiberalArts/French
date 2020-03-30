@@ -23,7 +23,7 @@ and Francophone cultures — from historical time periods to the present day.
 ## Why Study French?
 A major in French allows you to become well-versed in language as well as international cinema and literature while learning to analyze and interpret communication with a thorough understanding of cultural differences. We provide students with real communication skills that are in-demand in our increasingly complex and interconnected world. Our students graduate not just with French language skills but also with an understanding of cultural differences and the ability to analyze different types of communication.
 
-You’ll enjoy small classes that allow you to get to know your classmates, as well as our French faculty, who are dedicated to undergraduate education. And French majors also have the opportunity to participate in Temple University’s summer study program in Paris and can apply for a generous, merit-based scholarship to help cover the costs.The French major is an excellent and dynamic path for students who are interested in the wider world.
+You’ll enjoy small classes that allow you to get to know your classmates, as well as our French faculty, who are dedicated to undergraduate education. And French majors also have the opportunity to participate in Temple University’s summer study program in Paris and can apply for a generous, merit-based scholarship to help cover the costs. The French major is an excellent and dynamic path for students who are interested in the wider world.
 
  ___
  
