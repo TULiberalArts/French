@@ -15,7 +15,7 @@ sidebar: sidebars/undergraduate.html
 Earn your [French degree](#ba-in-french) at Temple University’s College of Liberal Arts! French is a [world language](#a-world-language) that will prepare you to enter the job market with a deep understanding of [French culture](#the-language-of-culture).
 
 ![French]({{site.baseurl}}/media/resized for page French hero.png){:.responsive-img .img-right}
-## BA in French
+## Bachelor of Arts in French
 The French major helps students develop skills in reading, writing and oral communication while providing them with a rich understanding of the literature, cinema and traditions of one or more Francophone cultures. As they improve their linguistic skills and study various forms of cultural production, French majors also strengthen their ability to analyze and interpret in a way that enhances their overall education. French majors complete the program with an ability to communicate, a grounding in literary tradition and an awareness of cultural differences that has become increasingly important in today’sworld. Majors acquire the knowledge and intellectual skills needed to participate fully in French speech communities as well as an understanding of the multicultural realities of those communities.
 
 The French program offers a full array of courses ranging from introductory language courses to advanced-level literature, film and culture courses taught in French.
