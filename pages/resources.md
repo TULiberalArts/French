@@ -31,8 +31,8 @@ A passing grade is given if the passage is translated completely with an accurac
 
 For additional information on language translation exams, please contact the appropriate exam proctor below.
 
-- French (Fall): [Wilbert Roget](mailto:wilbert@temple.edu)
-- French (Spring): [Ruth Thomas](mailto:rpthomas@temple.edu)
+- French (Fall): [Ruth Thomas](mailto:rpthomas@temple.edu)
+- French (Spring): [Wilbert Roget](mailto:wilbert@temple.edu)
 
 ## French Language Study
 
